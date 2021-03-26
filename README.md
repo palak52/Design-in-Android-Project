@@ -1,2 +1,2 @@
 # Design-in-Android-Project
-Front-end design 
+Front-end design in Codemet app 
