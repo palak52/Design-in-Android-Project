@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Codemet</string>
+
+    <string-array name="usertype">
+        <item>Admin</item>
+        <item>Devloper</item>
+        <item>User</item>
+    </string-array>
+</resources>
